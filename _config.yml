@@ -1,0 +1,26 @@
+﻿# Site settings
+name: RaydonLiu's Blog
+email: raydonliu@hotmail.com
+author: Dong Liu
+url: https://raydonliu.github.io
+resume_site: https://raydonliu.github.io
+github: https://github.com/raydonliu/
+baseurl: ""
+description: 既然选择了远方，便只顾风雨兼程
+meta_description: 刘东;个人博客;既然选择了远方，便只顾风雨兼程
+motto: 既然选择了远方，便只顾风雨兼程
+banner: 既然选择了远方，便只顾风雨兼程
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: RaydonLiu
+highlighter: Pygments
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 
