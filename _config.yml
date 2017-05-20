@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# Site settings
+# Site settings
 name: RaydonLiu's Blog
 email: raydonliu@hotmail.com
 author: Dong Liu
@@ -25,6 +24,3 @@ highlighter: Pygments
 markdown: kramdown
 
 baidu_analysis: 
-=======
-theme: jekyll-theme-cayman
->>>>>>> origin/master
