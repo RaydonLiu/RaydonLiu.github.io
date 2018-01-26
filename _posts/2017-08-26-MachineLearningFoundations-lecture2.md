@@ -3,8 +3,8 @@ layout: post
 title: '台湾大学林軒田老师的机器学习基石——第二讲'
 subtitle: 'Learning to Ansower Yes/No'
 date: 2017-08-26
-categories: 理论
-cover: 'http://p2p34wgdt.bkt.clouddn.com/fKPRB'
+categories: theoretics
+cover: 'http://p2p34wgdt.bkt.clouddn.com/mhVP9'
 tags: MachineLearning Mathematics 
 mathjax: true
 ---
