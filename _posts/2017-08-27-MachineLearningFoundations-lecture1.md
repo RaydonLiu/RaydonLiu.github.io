@@ -1,10 +1,12 @@
 ---
 layout: post
 title: '台湾大学林軒田老师的机器学习基石——第一讲'
+subtitle: 'the learning problem'
 date: 2017-08-27
-categories: 理论
+categories: theoretics
 cover: 'http://p2p34wgdt.bkt.clouddn.com/fKPRB'
 tags: MachineLearning Mathematics 
+mathjax: true
 ---
 
 # 台湾大学林軒田老师的机器学习基石——第一讲
